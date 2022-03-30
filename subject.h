@@ -2,8 +2,8 @@
 
 #include "list"
 #include "string"
-#include "Observer.h"
-#include "Board.h"
+#include "observer.h"
+#include "board.h"
 
 using namespace std;
 
